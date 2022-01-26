@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MessageInput should render correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "margin": 8,
+    }
+  }
+>
+  <TextInput
+    onChangeText={[Function]}
+    placeholder="Aa"
+    style={
+      Object {
+        "backgroundColor": "#EFEFEF",
+        "borderColor": "#F9F9F9",
+        "borderRadius": 10,
+        "borderWidth": 1,
+        "flex": 1,
+        "height": 50,
+        "marginEnd": 8,
+        "padding": 10,
+      }
+    }
+    testID="message"
+    value=""
+  />
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    nativeID="animatedComponent"
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "height": 48,
+        "justifyContent": "center",
+        "opacity": 1,
+        "padding": 10,
+        "width": 48,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../src/assets/images/send/send.png",
+        }
+      }
+    />
+  </View>
+</View>
+`;

@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Message should render correctly 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      Object {
+        "disabled": true,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    nativeID="animatedComponent"
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "overflow": "hidden",
+          },
+          Object {
+            "borderRadius": 24,
+            "height": 48,
+            "width": 48,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Image
+        onError={[Function]}
+        source={
+          Object {
+            "uri": "https://avatars.githubusercontent.com/u/5143408?s=200&v=4",
+          }
+        }
+        style={
+          Array [
+            Object {
+              "borderRadius": 24,
+              "height": 48,
+              "width": 48,
+            },
+            undefined,
+          ]
+        }
+        testID="user-avatar"
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignSelf": "flex-start",
+        "backgroundColor": "#F9F9F9",
+        "borderRadius": 15,
+        "flexDirection": "row",
+        "flexWrap": "wrap",
+        "marginBottom": 16,
+        "padding": 16,
+        "paddingHorizontal": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#0C0020",
+        }
+      }
+    >
+      
+    </Text>
+  </View>
+</View>
+`;

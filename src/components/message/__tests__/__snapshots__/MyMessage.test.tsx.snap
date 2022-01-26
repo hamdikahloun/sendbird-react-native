@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyMessage should render correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignSelf": "flex-end",
+      "backgroundColor": "#6100FF",
+      "borderRadius": 15,
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginBottom": 16,
+      "padding": 16,
+      "paddingHorizontal": 10,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+      }
+    }
+  >
+    
+  </Text>
+</View>
+`;

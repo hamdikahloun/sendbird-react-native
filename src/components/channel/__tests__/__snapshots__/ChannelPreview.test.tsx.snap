@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChannelPreview should render correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  nativeID="animatedComponent"
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#F9F9F9",
+      "borderColor": "white",
+      "borderRadius": 15,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "opacity": 1,
+      "padding": 10,
+    }
+  }
+>
+  <View
+    accessibilityState={
+      Object {
+        "disabled": true,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    nativeID="animatedComponent"
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "overflow": "hidden",
+          },
+          Object {
+            "borderRadius": 24,
+            "height": 48,
+            "width": 48,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Image
+        onError={[Function]}
+        source={
+          Object {
+            "uri": "https://example.com",
+          }
+        }
+        style={
+          Array [
+            Object {
+              "borderRadius": 24,
+              "height": 48,
+              "width": 48,
+            },
+            undefined,
+          ]
+        }
+        testID="user-avatar"
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "marginStart": 16,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#0C0020",
+          "fontSize": 16,
+        }
+      }
+    >
+      My Channel
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#0C0020",
+          "fontSize": 14,
+        }
+      }
+    >
+      undefined Participant
+    </Text>
+  </View>
+</View>
+`;

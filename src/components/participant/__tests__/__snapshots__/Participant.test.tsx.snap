@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Participant should render correctly 1`] = `
+<View
+  accessibilityState={
+    Object {
+      "disabled": true,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  nativeID="animatedComponent"
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#F6F6F6",
+      "borderColor": "white",
+      "borderRadius": 16,
+      "borderWidth": 1,
+      "justifyContent": "center",
+      "marginEnd": 16,
+      "opacity": 1,
+      "padding": 8,
+    }
+  }
+>
+  <View
+    accessibilityState={
+      Object {
+        "disabled": true,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    nativeID="animatedComponent"
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "overflow": "hidden",
+          },
+          Object {
+            "borderRadius": 24,
+            "height": 48,
+            "width": 48,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Image
+        onError={[Function]}
+        source={
+          Object {
+            "uri": "https://avatars.githubusercontent.com/u/5143408?s=200&v=4",
+          }
+        }
+        style={
+          Array [
+            Object {
+              "borderRadius": 24,
+              "height": 48,
+              "width": 48,
+            },
+            undefined,
+          ]
+        }
+        testID="user-avatar"
+      />
+    </View>
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#0C0020",
+        "fontSize": 10,
+      }
+    }
+  >
+    Hamdi
+  </Text>
+</View>
+`;

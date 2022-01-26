@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MessageTextInput should render correctly 1`] = `
+<TextInput
+  onChangeText={[Function]}
+  placeholder="Aa"
+  style={
+    Object {
+      "backgroundColor": "#EFEFEF",
+      "borderColor": "#F9F9F9",
+      "borderRadius": 10,
+      "borderWidth": 1,
+      "flex": 1,
+      "height": 50,
+      "marginEnd": 8,
+      "padding": 10,
+    }
+  }
+  testID="message"
+  value=""
+/>
+`;

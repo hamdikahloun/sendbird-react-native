@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar should render correctly 1`] = `
+<View
+  accessibilityState={
+    Object {
+      "disabled": true,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  nativeID="animatedComponent"
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "overflow": "hidden",
+        },
+        Object {
+          "borderRadius": 24,
+          "height": 48,
+          "width": 48,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Image
+      onError={[Function]}
+      source={
+        Object {
+          "uri": "https://cdn-icons-png.flaticon.com/512/194/194938.png",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "borderRadius": 24,
+            "height": 48,
+            "width": 48,
+          },
+          undefined,
+        ]
+      }
+      testID="user-avatar"
+    />
+  </View>
+</View>
+`;
