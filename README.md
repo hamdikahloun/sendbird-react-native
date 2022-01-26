@@ -5,7 +5,7 @@
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)" /></a>
     <a href="#backers" alt="Backers on Open Collective">
-        <img src="https://github.com/hamdikahloun/sendbird-chat-app/actions/workflows/main.yml/badge.svg" /></a>
+        <img src="https://github.com/hamdikahloun/sendbird-react-native/actions/workflows/main.yml/badge.svg" /></a>
   </p>
 Sendbird provides an easy-to-use Chat API, native Chat SDKs, UIKits, and a fully-managed chat platform on the backend that provides delivery receipts, offline messaging, presence, translation, moderation tools, and analytics.
 
